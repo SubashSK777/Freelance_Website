@@ -7,6 +7,7 @@ import orderRoute from "./routes/order.route.js"
 import conversationRoute from "./routes/conversation.route.js"
 import messageRoute from "./routes/message.route.js"
 import reviewRoute from "./routes/review.route.js"
+import authRoute from "./routes/auth.route.js"
 
 
 dotenv.config();
@@ -26,6 +27,7 @@ async function connect() {
 };
 
 app.use("/api/users", userRoute);
+app.use("/api/auth", authRoute);
 app.use("/api/gigs", gigRoute);
 app.use("/api/orders", orderRoute);
 app.use("/api/conversations", conversationRoute);
