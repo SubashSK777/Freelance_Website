@@ -2,4 +2,4 @@
 2. Subash - 15:41 🕟 (I watched "Meiazaghan")
 3. Subash - 28:53 🕠 (I watched "Billa, Billa 2 & Billa (1980)")
 4. Subash - 37:47 🕓 (Download Postman API)
-5. Subash - 42:10 🕙 (I hate PostMan API)
+5. Subash - 42:10 🕙 (I Hate PostMan API)
